@@ -1,0 +1,16 @@
+addons/*
+!addons/.gitkeep
+models/*
+!models/.gitkeep
+workspace/training_demo/annotations/*
+!workspace/training_demo/annotations/.gitkeep
+workspace/training_demo/exported-models/*
+!workspace/training_demo/exported-models/.gitkeep
+workspace/training_demo/images/*
+!workspace/training_demo/images/.gitkeep
+workspace/training_demo/images-inference-detection/result/*
+!workspace/training_demo/images-inference-detection/result/.gitkeep
+workspace/training_demo/images-inference-detection/source/*
+!workspace/training_demo/images-inference-detection/source/.gitkeep
+workspace/training_demo/pre-trained-models/*
+!workspace/training_demo/pre-trained-models/.gitkeep
