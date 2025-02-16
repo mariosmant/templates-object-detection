@@ -29,6 +29,7 @@ sudo ldconfig
 ```
 
 # CUDNN
+The file `test_cudnn.c` can be found in `setup` directory.
 ```
 cd ~/cudnn-linux-x86_64-8.6.0.163_cuda11-archive
 sudo cp include/cudnn*.h /usr/local/cuda-11.8/include
